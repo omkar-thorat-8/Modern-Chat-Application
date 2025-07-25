@@ -1,4 +1,0 @@
-com\chat\ChatFree\ChatFreeApplication.class
-com\chat\ChatFree\controller\ChatController.class
-com\chat\ChatFree\config\WebSocketConfig.class
-com\chat\ChatFree\Model\ChatMessage.class
