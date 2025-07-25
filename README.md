@@ -26,7 +26,8 @@ A real-time chat application built with **Spring Boot**, **WebSockets**, and a s
 ---
 
 ## 📷 Preview
+![Preview](https://github.com/user-attachments/assets/b04f6fa4-abff-4175-b595-5e099278c3ce)
 
-![chat-ui-preview](https://user-images.githubusercontent.com/your-image-link.png) 
+
 ---
 
